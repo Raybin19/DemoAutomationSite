@@ -1,0 +1,91 @@
+2022-08-03 18:08:418 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 18:08:570 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 18:08:193 INFO  RegisterPage :114 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (fcae520880b68e02fa6acb83cea74da2)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 18:08:564 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 18:08:247 INFO  RegisterPage :114 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (8de5bf1c122c47dbf172e92100129700)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 18:08:371 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 18:08:938 INFO  RegisterPage :114 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (5be3da3d3ef4c944692b1b537cfc855f)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 18:08:376 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 18:08:985 INFO  RegisterPage :114 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (1ca77fc582283637225a4412400b49bc)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 18:08:876 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 18:08:874 INFO  RegisterPage :69 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@placeholder='First Name']]
+2022-08-03 18:08:976 INFO  RegisterPage :74 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-03 18:08:121 INFO  RegisterPage :79 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@type='email']]
+2022-08-03 18:08:227 INFO  RegisterPage :84 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@type='tel']]
+2022-08-03 18:08:313 INFO  RegisterPage :89 - Clicking on gender radio button[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@value='FeMale']]
+2022-08-03 18:08:446 INFO  RegisterPage :94 - Clicking on Country[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //select[@id='countries']]
+2022-08-03 18:08:667 INFO  RegisterPage :99 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@id='firstpassword']]
+2022-08-03 18:08:779 INFO  RegisterPage :104 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //input[@id='secondpassword']]
+2022-08-03 18:08:880 INFO  RegisterPage :109 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (e15b589fd13ff2e6ca239b93ff73dda5)] -> xpath: //button[@id='submitbtn']]
+2022-08-03 19:08:748 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 19:08:730 INFO  RegisterPage :114 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (50214c890a9bfacdfd176fc06f39f916)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 19:08:915 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 19:08:899 INFO  RegisterPage :69 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@placeholder='First Name']]
+2022-08-03 19:08:11 INFO  RegisterPage :74 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-03 19:08:155 INFO  RegisterPage :79 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@type='email']]
+2022-08-03 19:08:274 INFO  RegisterPage :84 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@type='tel']]
+2022-08-03 19:08:348 INFO  RegisterPage :89 - Clicking on gender radio button[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@value='FeMale']]
+2022-08-03 19:08:472 INFO  RegisterPage :94 - Clicking on Country[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //select[@id='countries']]
+2022-08-03 19:08:618 INFO  RegisterPage :99 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@id='firstpassword']]
+2022-08-03 19:08:773 INFO  RegisterPage :104 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //input[@id='secondpassword']]
+2022-08-03 19:08:875 INFO  RegisterPage :109 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (4cdd19a9c4ee2a86d9b2405e11b3299a)] -> xpath: //button[@id='submitbtn']]
+2022-08-03 19:08:75 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 19:08:367 INFO  RegisterPage :114 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (bae1d90fec3ebc29f2809bec164ba454)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 19:08:216 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 19:08:815 INFO  RegisterPage :69 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@placeholder='First Name']]
+2022-08-03 19:08:911 INFO  RegisterPage :74 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-03 19:08:37 INFO  RegisterPage :79 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@type='email']]
+2022-08-03 19:08:154 INFO  RegisterPage :84 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@type='tel']]
+2022-08-03 19:08:224 INFO  RegisterPage :89 - Clicking on gender radio button[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@value='FeMale']]
+2022-08-03 19:08:329 INFO  RegisterPage :94 - Clicking on Country[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //select[@id='countries']]
+2022-08-03 19:08:537 INFO  RegisterPage :99 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@id='firstpassword']]
+2022-08-03 19:08:637 INFO  RegisterPage :104 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //input[@id='secondpassword']]
+2022-08-03 19:08:723 INFO  RegisterPage :109 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (d03e55f33006deb34ef9dcef177d6a15)] -> xpath: //button[@id='submitbtn']]
+2022-08-03 19:08:581 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 19:08:448 INFO  RegisterPage :69 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //input[@placeholder='First Name']]
+2022-08-03 19:08:537 INFO  RegisterPage :74 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-03 19:08:618 INFO  RegisterPage :79 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //input[@type='email']]
+2022-08-03 19:08:706 INFO  RegisterPage :84 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //input[@type='tel']]
+2022-08-03 19:08:782 INFO  RegisterPage :99 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //input[@id='firstpassword']]
+2022-08-03 19:08:856 INFO  RegisterPage :104 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //input[@id='secondpassword']]
+2022-08-03 19:08:978 INFO  RegisterPage :109 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (fb8d987be0a60fbeefc6a1fb8b3c23a3)] -> xpath: //button[@id='submitbtn']]
+2022-08-03 23:08:452 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 23:08:322 INFO  RegisterPage :111 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (0206900f7e834905249045a7360b75e2)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-03 23:08:227 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 23:08:661 INFO  RegisterPage :66 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@placeholder='First Name']]
+2022-08-03 23:08:760 INFO  RegisterPage :71 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-03 23:08:924 INFO  RegisterPage :76 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@type='email']]
+2022-08-03 23:08:212 INFO  RegisterPage :81 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@type='tel']]
+2022-08-03 23:08:419 INFO  RegisterPage :86 - Clicking on gender radio button[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@value='FeMale']]
+2022-08-03 23:08:674 INFO  RegisterPage :91 - Clicking on Country[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //select[@id='countries']]
+2022-08-03 23:08:13 INFO  RegisterPage :96 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@id='firstpassword']]
+2022-08-03 23:08:167 INFO  RegisterPage :101 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //input[@id='secondpassword']]
+2022-08-03 23:08:373 INFO  RegisterPage :106 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (5e92ec074b414f34fb57743413c0edec)] -> xpath: //button[@id='submitbtn']]
+2022-08-03 23:08:235 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-03 23:08:464 INFO  RegisterPage :66 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //input[@placeholder='First Name']]
+2022-08-03 23:08:594 INFO  RegisterPage :71 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-03 23:08:672 INFO  RegisterPage :76 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //input[@type='email']]
+2022-08-03 23:08:759 INFO  RegisterPage :81 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //input[@type='tel']]
+2022-08-03 23:08:884 INFO  RegisterPage :96 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //input[@id='firstpassword']]
+2022-08-03 23:08:78 INFO  RegisterPage :101 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //input[@id='secondpassword']]
+2022-08-03 23:08:198 INFO  RegisterPage :106 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (2349c12774b7d8d6cf5f41355f18073e)] -> xpath: //button[@id='submitbtn']]
+2022-08-04 00:08:197 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-04 00:08:246 INFO  RegisterPage :111 - Verifying the register page text [[ChromeDriver: chrome on WINDOWS (e868760d7ef1b43bd76dffc87bd07614)] -> xpath: //h2[normalize-space()='Register']]
+2022-08-04 00:08:163 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-04 00:08:685 INFO  RegisterPage :66 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@placeholder='First Name']]
+2022-08-04 00:08:815 INFO  RegisterPage :71 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-04 00:08:927 INFO  RegisterPage :76 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@type='email']]
+2022-08-04 00:08:151 INFO  RegisterPage :81 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@type='tel']]
+2022-08-04 00:08:346 INFO  RegisterPage :86 - Clicking on gender radio button[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@value='FeMale']]
+2022-08-04 00:08:490 INFO  RegisterPage :91 - Clicking on Country[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //select[@id='countries']]
+2022-08-04 00:08:669 INFO  RegisterPage :96 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@id='firstpassword']]
+2022-08-04 00:08:784 INFO  RegisterPage :101 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //input[@id='secondpassword']]
+2022-08-04 00:08:899 INFO  RegisterPage :106 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (c8a8d95768eb6acc73356605e1783e93)] -> xpath: //button[@id='submitbtn']]
+2022-08-04 00:08:793 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-04 00:08:529 INFO  RegisterPage :66 - Enter first name in textbox[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //input[@placeholder='First Name']]
+2022-08-04 00:08:611 INFO  RegisterPage :71 - Enter last name in textbox[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //input[@placeholder='Last Name']]
+2022-08-04 00:08:699 INFO  RegisterPage :76 - Enter email in textbox[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //input[@type='email']]
+2022-08-04 00:08:827 INFO  RegisterPage :81 - Enter phone number in textbox[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //input[@type='tel']]
+2022-08-04 00:08:993 INFO  RegisterPage :96 - Enter password in textbox[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //input[@id='firstpassword']]
+2022-08-04 00:08:185 INFO  RegisterPage :101 - Enter confirm password in textbox[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //input[@id='secondpassword']]
+2022-08-04 00:08:408 INFO  RegisterPage :106 - Clicking on submit button[[ChromeDriver: chrome on WINDOWS (0feb63243f227d09a07cddb1fafe1535)] -> xpath: //button[@id='submitbtn']]

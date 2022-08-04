@@ -1,0 +1,468 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8109852100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User is on register page",
+        "description": "",
+        "id": "register-functionality;user-is-on-register-page",
+        "after": [
+          {
+            "result": {
+              "duration": 796299400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 118294300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on register page",
+            "match": {
+              "location": "MyStepdefs.iAmOnRegisterPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 74809900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be able to see \u0027Register\u0027 text",
+            "match": {
+              "location": "MyStepdefs.iShouldBeAbleToSeeRegisterText()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6152580800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "User should be able to register with valid credentials",
+        "description": "",
+        "id": "register-functionality;user-should-be-able-to-register-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 844336300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 48000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I am on register page",
+            "match": {
+              "location": "MyStepdefs.iAmOnRegisterPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 465914500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter firstname \"Joanna\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Joanna",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.iEnterFirstname(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 123348500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter lastname \"Smith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Smith",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterLastname(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 110799800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter email address\"xyz23@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "xyz23@gmail.com",
+                  "offset": 22
+                }
+              ],
+              "location": "MyStepdefs.iEnterEmailAddress(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 222076200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter phone number\"7798694757\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "7798694757",
+                  "offset": 21
+                }
+              ],
+              "location": "MyStepdefs.iEnterPhoneNumber(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 192248400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I select gender radio button Female",
+            "match": {
+              "location": "MyStepdefs.iSelectGenderRadioButtonFemale()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 143959500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I select country from dropdown",
+            "match": {
+              "location": "MyStepdefs.iSelectCountryFromDropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 173750000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter password\"Asdfg909\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Asdfg909",
+                  "offset": 17
+                }
+              ],
+              "location": "MyStepdefs.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 113100100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I enter confirm password\"Asdfg909\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Asdfg909",
+                  "offset": 25
+                }
+              ],
+              "location": "MyStepdefs.iEnterConfirmPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 113124500,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on submit button",
+            "match": {
+              "location": "MyStepdefs.iClickOnSubmitButton()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4498759000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "User should not be able to register with blank mandatory field",
+        "description": "",
+        "id": "register-functionality;user-should-not-be-able-to-register-with-blank-mandatory-field;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 839678200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 55500,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am on register page",
+            "match": {
+              "location": "MyStepdefs.iAmOnRegisterPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 259820500,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I enter firstname \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.iEnterFirstname(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 82357400,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I enter lastname \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterLastname(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 86480100,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I enter email address\"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 22
+                }
+              ],
+              "location": "MyStepdefs.iEnterEmailAddress(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 126350500,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I enter phone number\"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 21
+                }
+              ],
+              "location": "MyStepdefs.iEnterPhoneNumber(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164202400,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I enter password\"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 17
+                }
+              ],
+              "location": "MyStepdefs.iEnterPassword(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 186155300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I enter confirm password\"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 25
+                }
+              ],
+              "location": "MyStepdefs.iEnterConfirmPassword(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 217959100,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I click on submit button",
+            "match": {
+              "location": "MyStepdefs.iClickOnSubmitButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50300,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I should see an error message \u0027Please fill out this field.\u0027",
+            "match": {
+              "location": "MyStepdefs.iShouldSeeAnErrorMessagePleaseFillOutThisField()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Register functionality",
+    "description": "As a user I want to register my details",
+    "id": "register-functionality",
+    "keyword": "Feature",
+    "uri": "register.feature"
+  }
+]
